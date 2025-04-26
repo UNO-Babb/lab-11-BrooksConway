@@ -1,0 +1,1 @@
+In the lab multiple different values could be changed and viewed. The main one I changed was the amount of checkers. For the most part as the number of checkers went up, the idle time also went up. The wait time also generally went down till it reached a point where the added checkers didn't affect the outcome of wait time. With less checkers the wait time did increase. 

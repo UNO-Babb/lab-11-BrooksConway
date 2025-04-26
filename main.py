@@ -55,8 +55,7 @@ def processResults():
     print("The total idle time was %d minutes" % idleTime)
 
 def main():
-    numberCheckers = 10
-
+    numberCheckers = 1
     env = simpy.Environment()
 
     env.process(customerArrival(env))
